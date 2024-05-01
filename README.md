@@ -6,3 +6,5 @@
 </a>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](https://github.com/PopularPays/dwolla-swagger-ruby/pull/4) in [PopularPays/dwolla-swagger-ruby](https://github.com/PopularPays/dwolla-swagger-ruby)
+<!--END_SECTION:activity-->
